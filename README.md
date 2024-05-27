@@ -2,5 +2,5 @@
 - 👀 I’m interested in back-end
 - 🌱 I’m currently learning Web Scraping
 - 💞️ I’m looking to collaborate with back-end engineers
-- 📫 How to reach me still not updated
+- 📫 
 
